@@ -19,6 +19,7 @@ env/
 build/
 develop-eggs/
 dist/
+data/mnist/
 downloads/
 eggs/
 .eggs/
@@ -125,3 +126,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# others
